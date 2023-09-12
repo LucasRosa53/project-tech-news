@@ -54,6 +54,7 @@ def scrape_news(html_content):
 
     return new_news
 
+
 # Requisito 5
 def get_tech_news(amount):
     """Seu código deve vir aqui"""
